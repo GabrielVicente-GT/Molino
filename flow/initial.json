@@ -19,43 +19,50 @@
     },
     {
         "keywords":  [
-            "cursos",
-            "info",
-            "curso"        ],
+            "Emprendedor",
+            "emprendimiento",
+            "Emprendedores",
+            "emprendedores"          ],
         "key": "STEP_2"
     },
     {
         "keywords":  [
-            "angular"
+            "Basico",
+            "Básico",
+            "basico",
+            "básico"
         ],
         "key": "STEP_2_1"
     },
     {
         "keywords":  [
-            "node"
+            "Regular",
+            "regular"
         ],
         "key": "STEP_2_2"
     },
     {
         "keywords":  [
-            "ngrx"
+            "Chilerisimo",
+            "chilerisimo",
+            "chilerísimo",
+            "Chilerísimo"
         ],
         "key": "STEP_2_3"
     },
     {
         "keywords":  [
-            "aws"
+            "Extremo",
+            "extremo"
         ],
         "key": "STEP_2_4"
     },
     {
         "keywords":  [
-            "asesor",
-            "asesores",
-            "Vendedor",
-            "cobrador"
+            "Champions",
+            "champions"
         ],
-        "key": "STEP_3"
+        "key": "STEP_2_5"
     },
     {
         "keywords":  [
@@ -66,23 +73,13 @@
         ],
         "key": "STEP_4"
     },
+
     {
         "keywords":  [
-            "youtube"
-        ],
-        "key": "STEP_5"
-    },
-    {
-        "keywords":  [
-            "VER_CURSOS"
+            "Producto",
+            "producto"
         ],
         "key": "STEP_6"
-    },
-    {
-        "keywords":  [
-            "telegram"
-        ],
-        "key": "STEP_7"
     },
     {
         "keywords":  [
